@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716380369 source:d:\codeblocks\tiralproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<unordered_map>
+	<iomanip>
+
