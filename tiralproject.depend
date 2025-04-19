@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1716380369 source:d:\codeblocks\tiralproject\main.cpp
+1716381714 source:d:\codeblocks\tiralproject\main.cpp
 	<iostream>
 	<fstream>
 	<string>
